@@ -12,11 +12,11 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "gatsby-plugin-react-helmet": "^3.1.2"
+    "gatsby-plugin-react-helmet": "^4.0.0"
   },
   "peerDependencies": {
     "@material-ui/core": ">=4.0.0",
-    "gatsby": ">=2.0.75",
-    "react-helmet": ">=5.2.0"
+    "gatsby": ">=3.0.0",
+    "react-helmet": ">=6.0.0"
   }
 }

@@ -24,7 +24,7 @@
     "gatsby-plugin-compile-es6-packages": "^2.1.0",
     "gatsby-plugin-material-ui": "^3.0.0",
     "gatsby-plugin-webfonts": "^2.0.0",
-    "gatsby-theme-material-ui-top-layout": "^1.0.3",
+    "gatsby-theme-material-ui-top-layout": "https://gitpkg.now.sh/MakeSchool/gatsby-theme-material-ui/packages/gatsby-theme-material-ui-top-layout?master",
     "react-helmet": "^6.1.0"
   },
   "peerDependencies": {
